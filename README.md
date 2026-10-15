@@ -48,23 +48,24 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sinajayz&show_icons=true&theme=tokyonight&hide_border=true" alt="Sina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinajayz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sinajayz&theme=tokyonight&hide_border=true" alt="Sina's GitHub Streak" width="60%" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p <!-- Framer Live Portfolio Button -->
+  <a href="https://sinajz.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sinajz.framer.website-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Portfolio" />
+  </a>
+  align="left">
   <a href="https://www.linkedin.com/in/sina-jalalizadeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sinajalalizadeh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-- 🎨 **Creative & Web Design Portfolio:** [Explore my design works & live projects](https://sinajz.framer.website/)
-- 💻 **Code & Development Projects:** *Check out pinned repositories below!*
 </p>
