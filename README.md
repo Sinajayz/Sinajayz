@@ -55,13 +55,12 @@
 </p>
 
 ---
+### 🌐 Connect & Live Portfolios
 
-### 🌐 Connect with Me
-<p <!-- Framer Live Portfolio Button -->
+<p align="left">
   <a href="https://sinajz.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-sinajz.framer.website-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Portfolio" />
   </a>
-  align="left">
   <a href="https://www.linkedin.com/in/sina-jalalizadeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
